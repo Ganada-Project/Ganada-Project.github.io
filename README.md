@@ -1,5 +1,5 @@
-# ganada project website - main
-
+# ganada (Archived Version)
+(This "ganada" repository is not for public use.)
 #
 ![Website](https://img.shields.io/website?label=Main%20Version&style=for-the-badge&url=https%3A%2F%2Fganadaproject.com)
 ![Website](https://img.shields.io/website?label=archived%20version&style=for-the-badge&url=https%3A%2F%2Fchungboklee.github.io%2Fganada)
