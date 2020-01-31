@@ -95,7 +95,9 @@ overflow-wrap: keep-all!important;
 .text-button:hover, .text-button:visited{color:#fff;}
 
 
-footer {display:block;padding-top:20px;padding-bottom:20px;line-height:20px;position:fixed;bottom:0;}
-footer p{float:left; font-size:12.5px; color:#111314;}
+footer {display:block;padding-top:20px;padding-bottom:20px;position:fixed;bottom:0;}
+footer p{float:left; font-size:12.5px; color:#111314;line-height:20px;}
 footer .langopt{margin-left:20px;display:inline-block;font-family: 'Muli', sans-serif;font-size:12.5px;}
 .langopt a{margin: 0 10px; color:#596469;}
+footer a{color:#88929c;}
+footer a:hover, footer a:visited{color:#88929c;}
