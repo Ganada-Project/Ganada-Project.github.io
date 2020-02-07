@@ -8,7 +8,7 @@ margin:0;
 }
 
 body {
-background:#ffffff;
+background:#000000;
 height:100%;
 margin:0;}
 
@@ -22,6 +22,7 @@ color: #fff;
 }
 .bg{
 background: url('../cont/woodendummy.png');
+background-color:#f8f8f8;
 background-repeat: no-repeat;
 background-size: auto 100%;
 background-position: 80% 0%;}
@@ -32,17 +33,17 @@ background-position: 80% 0%;}
 .font-kor{font-family: 'Nanum Gothic', sans-serif; letter-spacing: 0.01rem;}
 
 mark {background-color:#fff;}
-.headerspan-weak{color:#88929c;}
 
 @media screen and (min-width: 601px) {
 h1 {font-size:80px; font-weight:bold; color:#353b3e;}
 h2 {font-size:40px; font-weight:bold; color:#353b3e;}
-h3 {font-size:30px; font-weight:700; color:#353b3e; line-height:40px;}
-p {font-size: 16px; font-weight:normal; color:#353b3e; line-height:30px;}
+h3 {font-size:40px; font-weight:700; color:#111314; line-height:40px;}
+p {font-size: 15px; font-weight:600; color:#353b3e; line-height:30px;}
 li a {font-size:20px;}
 .nav-li-a-logo img{height:35px;}
-.sub-title{margin-bottom:20px;}
-.text-button{padding:20px 30px;background:#6a82fb;color:#fff;border-radius:8px;font-size:18px;font-weight:600;}
+.big-title{margin-bottom:20px;}
+.sub-title{margin-bottom:0;}
+.text-button{padding:20px 30px;background:#6a82fb;color:#fff;border-radius:8px;font-size:15px;font-weight:600;}
 .text-button:hover, .text-button:visited{color:#fff;}
 }
 
@@ -56,14 +57,15 @@ background-position: center bottom;
 mark{background-color:rgba(0,0,0,0);}
 h1 {font-size:35px; font-weight:bold; color:#353b3e;}
 h2 {font-size:25px; font-weight:bold; color:#353b3e;}
-h3 {font-size:25px; font-weight:700; color:#353b3e; line-height:35px;}
-p {font-size: 15px; line-height:30px; color:#353b3e; line-height:30px;} 
+h3 {font-size:30px; font-weight:700; color:#111314; line-height:35px;}
+p {font-size: 14px; font-weight:600; color:#353b3e; line-height:30px;} 
 li a {font-size:18px;}
 .headerspan-weak{color:#353b3e;}
 .nav-li-a-logo img{height:30px;}
 .main{width:100%;}
-.sub-title{margin-bottom:10px;}
-.text-button{padding:15px 25px;background:#6a82fb;color:#fff;border-radius:8px;font-size:15px;font-weight:600;}
+.big-title{margin-bottom:10px;}
+.sub-title{margin-bottom:80px;}
+.text-button{padding:20px 25px;background:#6a82fb;color:#fff;border-radius:8px;font-size:14px;font-weight:600;}
 .text-button:hover, .text-button:visited{color:#fff;}
 }
 
